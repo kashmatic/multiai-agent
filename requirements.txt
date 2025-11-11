@@ -1,0 +1,15 @@
+setuptools
+Flask
+numpy
+requests
+python-dotenv
+opencv-python
+langchain-groq
+langchain-community
+uvicorn
+fastapi
+pydantic
+langgraph
+streamlit
+langchain-tavily
+

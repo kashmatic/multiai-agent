@@ -1,0 +1,9 @@
+*.egg-info/
+venv/
+.env
+*/__pycache__/
+*/*/__pycache__/
+local.sh
+logs/
+results/
+gcp-key.json
